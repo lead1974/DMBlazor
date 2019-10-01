@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29319.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMBlazor", "DMBlazor\DMBlazor.csproj", "{45146FB5-D9C0-408B-851E-3AF1F6E00F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45146FB5-D9C0-408B-851E-3AF1F6E00F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45146FB5-D9C0-408B-851E-3AF1F6E00F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45146FB5-D9C0-408B-851E-3AF1F6E00F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45146FB5-D9C0-408B-851E-3AF1F6E00F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EAC58D5-1D8F-40FF-9661-E698EC02CBA8}
+	EndGlobalSection
+EndGlobal
